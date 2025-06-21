@@ -1,0 +1,24 @@
+# .streamlit/config.toml
+
+[theme]
+# Define o tema base como escuro, ideal para um fundo preto.
+base = "dark"
+
+# A cor primária para elementos interativos, como botões e sliders.
+# Usamos a cor secundária para que os elementos interativos se destaquem com esse tom.
+primaryColor = "#d2ab67"
+
+# A cor de fundo principal da sua aplicação Streamlit.
+# Definido como preto puro, conforme solicitado.
+backgroundColor = "#000000"
+
+# A cor de fundo secundária, usada para a barra lateral e alguns widgets.
+# Definido como #d2ab67, conforme solicitado.
+secondaryBackgroundColor = "#282828"
+
+# A cor do texto na sua aplicação.
+# Branco para garantir boa legibilidade em fundos escuros.
+textColor = "#d2ab67"
+
+# A família da fonte para o texto da aplicação.
+font = "sans serif"
