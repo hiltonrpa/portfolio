@@ -8,4 +8,3 @@ st.set_page_config(
 st.sidebar.success("Bem-vindo ao Meu Portfólio!")
 st.header("Bem-vindo ao Meu Portfólio!")
 st.write("Use a barra lateral para navegar entre as seções.")
-st.write("TEste git commit.")
