@@ -21,3 +21,5 @@ ax.set_title('Gráfico de Barras de Dados Aleatórios')
 
 st.subheader("Gráfico de Barras")
 st.pyplot(fig)
+
+st.write("Versão 1.0")
